@@ -3,14 +3,14 @@
 
 package:
   name: etcd-minimal
-  version: 3.6.10
+  version: 3.6.13
   epoch: 0
   description: "Minimal etcd distributed key-value store built from source"
   copyright:
     - license: Apache-2.0
 
 vars:
-  sha256: 09e368ea4a3911fa24b25c1204b508e205731b0b10ee067824a6d87139ea673a
+  sha256: acb4b4a7ce8e803b81f0bc0f0e97969f7b63ea73712c2ceec4ea954f41c3847b
 
 environment:
   contents:
