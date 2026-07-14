@@ -19,7 +19,7 @@ MINIO_VERSION ?= 2025.10.15
 ETCD_VERSION ?= 3.6.10
 
 # --- Languages/Frameworks ---
-RUBY_VERSION ?= 4.0.2
+RUBY_VERSION ?= 4.0.6
 RAILS_VERSION ?= 8.1.2
 
 # --- Messaging/Coordination ---
