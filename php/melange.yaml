@@ -4,7 +4,7 @@
 
 package:
   name: php-minimal
-  version: 8.5.4
+  version: 8.5.9
   epoch: 0
   description: "Minimal PHP CLI built from source"
   copyright:
@@ -12,7 +12,7 @@ package:
 
 vars:
   # SHA256 from https://www.php.net/releases/?json&version=8.5
-  sha256: 4fef7f44eff3c18e329504cb0d3eb30b41cf54e2db05cb4ebe8b78fc37d38ce1
+  sha256: d735459c2cbaeb0673d416c33d372d9ff261d562f6b29da48f3e6aeaeca083af
 
 environment:
   contents:
