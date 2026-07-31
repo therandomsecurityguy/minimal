@@ -25,7 +25,7 @@ RAILS_VERSION ?= 8.1.2
 # --- Messaging/Coordination ---
 KAFKA_VERSION ?= 4.2.0
 VALKEY_VERSION ?= 9.0.3
-NATS_VERSION ?= 2.12.6
+NATS_VERSION ?= 2.14.4
 RABBITMQ_VERSION ?= 4.2.5
 
 # --- Ingress/Proxies ---
