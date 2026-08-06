@@ -6,7 +6,7 @@ REGISTRY ?= ghcr.io
 OWNER ?= $(shell git config user.name | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
 VERSION ?= $(shell date +%Y%m%d)
 # --- Infrastructure/Core ---
-JENKINS_VERSION ?= 2.541.3
+JENKINS_VERSION ?= 2.568.2
 NGINX_VERSION ?= 1.29.4
 HTTPD_VERSION ?= 2.4.66
 
