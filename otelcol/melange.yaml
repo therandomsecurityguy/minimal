@@ -4,14 +4,14 @@
 
 package:
   name: otelcol-minimal
-  version: 0.149.0
+  version: 0.160.0
   epoch: 0
   description: "Minimal OpenTelemetry Collector built from source"
   copyright:
     - license: Apache-2.0
 
 vars:
-  sha256: 0db930562e2b591246cfc756820f70ca136e6955587ac18b710c400a41f81528
+  sha256: 203a0265d16a5cb5f176820d4753aa500246a52edd0388a38e6c8298c73003b8
 
 environment:
   contents:
