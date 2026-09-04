@@ -4,14 +4,14 @@
 
 package:
   name: qdrant-minimal
-  version: 1.17.1
+  version: 1.19.1
   epoch: 0
   description: "Minimal Qdrant vector search engine built from source"
   copyright:
     - license: Apache-2.0
 
 vars:
-  sha256: 32012fab5334b10f20fec5b41a9e9907f9b232cb78d55faa8c1fe6c8f8535629
+  sha256: ca9f0cb5a6954d253b51f249161cb63e2c3fee2a3bf360056cf01f0e70b2b878
 
 environment:
   contents:
