@@ -4,7 +4,7 @@
 
 package:
   name: kafka-minimal
-  version: 4.2.0
+  version: 4.4.0
   epoch: 0
   description: "Minimal Apache Kafka with custom JRE (jlink), KRaft mode"
   copyright:
@@ -12,7 +12,7 @@ package:
 
 vars:
   # SHA512 of kafka_2.13-{version}.tgz - updated by update-kafka.yml workflow
-  sha512: 16ce46e590ba915f01b720ea514445e49c88bf129cf4ceab88878b122d54ef24f0dedb88d0eb178957f58057a6c6a9adbea8b8059307585daea13129b85ba1d8
+  sha512: f5ceba8a265ab6bb2d68362b1f6859a95e15d60ef92ba83b43fdf065b557dc18e98d6383c15b9977320e25b3a2c8b6f11decb17b0fa6c0f163423793a0eb95cb
   scala_version: "2.13"
 
 environment:
