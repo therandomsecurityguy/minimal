@@ -4,7 +4,7 @@
 
 package:
   name: rabbitmq-minimal
-  version: 4.2.5
+  version: 4.4.0
   epoch: 0
   description: "Minimal RabbitMQ message broker from official generic-unix release"
   copyright:
@@ -12,7 +12,7 @@ package:
 
 vars:
   # SHA256 of rabbitmq-server-generic-unix-{version}.tar.xz - updated by update-rabbitmq.yml
-  sha256: 1cfce9374e37c56e4efd3831e90c5508a511bae87dbaa95f7bdddd36f71e27aa
+  sha256: 68c22d5dafa15c0911463aeca73c362d638cd6fb8e407ad39512959c6cc37f0f
 
 environment:
   contents:
